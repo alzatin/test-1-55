@@ -1,0 +1,25 @@
+{
+    "atomType": "Molecule",
+    "name": "test 1:55",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 431622,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9832214765100671,
+            "y": 0.5,
+            "uniqueID": 864665,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1,
+    "simplify": false,
+    "unitsIndex": 0,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
+}
